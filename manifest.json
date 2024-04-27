@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "IPL Ads Muter",
+  "version": "1.0",
+  "description": "Automatically mutes the ads when IPL match is ongoing",
+  "permissions": ["activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.jiocinema.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
