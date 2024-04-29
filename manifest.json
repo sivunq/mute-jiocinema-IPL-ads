@@ -3,7 +3,7 @@
   "name": "IPL Ads Muter",
   "version": "1.0",
   "description": "Automatically mutes the ads when IPL match is ongoing",
-  "permissions": ["activeTab"],
+  "permissions": ["activeTab", "management", "tabs"],
   "background": {
     "service_worker": "background.js"
   },
