@@ -1,6 +1,6 @@
 # mute-jiocinema-IPL-ads 
 
-### This extension automatically mutes the volume when ads appear during IPL matches. Please refresh the JioCinema page, after adding/enabling the extension.
+### This extension automatically mutes the volume when ads appear during IPL matches. Also it puts a dark layover over the video player when the ads are playing, you can disable the layover from the extension popup.  Please refresh the JioCinema page, after adding/enabling the extension.
 
 # Instructions to Install
 Ideally i should have just provided the link to the chrome web store to install the extension, but i'm facing a few issues while publishing in chrome web store, It should be fixed soon . Till then, please follow these steps to install the extension. It only takes 2 mins to install.
