@@ -1,13 +1,21 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>IPL Ad Muter</title>
-  <style>
-    body { width: 400px; }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPL Ad Muter</title>
+    <link rel="stylesheet" href="popup.css">
 </head>
 <body>
-  <h3>IPL Ad Muter</h3>
-  <p>This extension automatically mutes the volume during IPL matches. Please refresh the JioCinema page, after adding/enabling the extension.</p>
+    <div class="popup-container">
+        <h3 class="popup-title">IPL Ad Muter</h3>
+        <p class="popup-description">Automatically mutes the volume during IPL matches. Please refresh the JioCinema page after enabling the extension.</p>
+        <label class="toggle-switch">
+            <input type="checkbox" id="overlayToggle">
+            <span class="slider round"></span>
+        </label>
+        <p class="toggle-label">Show Overlay</p>
+    </div>
+    <script src="popup.js"></script>
 </body>
 </html>
