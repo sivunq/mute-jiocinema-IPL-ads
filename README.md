@@ -4,7 +4,7 @@
 
 # Instructions to Install
 Ideally i should have just provided the link to the chrome web store to install the extension, but i'm facing a few issues while publishing in chrome web store, It should be fixed soon . Till then, please follow these steps to install the extension. It only takes 2 mins to install.
-1. You need to download this repo code i.e click on the green Code button-> click on "Download Zip".
+1. You need to download the zip file from this link: https://github.com/sivunq/mute-jiocinema-IPL-ads/raw/main/mute-jiocinema-IPL-ads.zip
 2. Unzip the downloaded file.
 3. Now there are two ways to install the extension. First one is very simple where you just drag and drop the unzipped folder in the extensions page of the chrome browser (go to this link to access extensions page-> chrome://extensions/). Second way is explained in this article, takes only 2 mins https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 
