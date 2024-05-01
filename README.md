@@ -19,3 +19,6 @@ I'll keep working on improving my logic, so bear with me please.
 
 # Feedback
 This is my first time building and publishing a browser extension, please do provide feedback. 
+
+
+PS: In case you are wondering why code in the background.js and content.js seems like gibberish, that's done to protect the logic from Jiocinema's team. Altough I'm sure they are quite smart and it wouldn't be much difficut for them to figure it out.
