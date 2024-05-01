@@ -6,7 +6,7 @@
 Ideally i should have just provided the link to the chrome web store to install the extension, but i'm facing a few issues while publishing in chrome web store, It should be fixed soon . Till then, please follow these steps to install the extension. It only takes 2 mins to install.
 1. You need to download the zip file from this link: https://github.com/sivunq/mute-jiocinema-IPL-ads/archive/refs/heads/main.zip
 2. Unzip the downloaded file.
-3. Now there are two ways to install the extension. First one is very simple where you just drag and drop the unzipped folder in the extensions page of the chrome browser (go to this link to access extensions page-> chrome://extensions/). Second way is explained in this article, takes only 2 mins https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
+3. Now there are two ways to install the extension. First one is very simple where you just drag and drop the unzipped folder in the extensions page of the chrome browser (go to this link to access extensions page-> chrome://extensions/). You just need to ensure your developer mode is on (a toggle button on top right side). Second way is explained in this article, takes only 2 mins https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/
 
 
 # Edge Cases
@@ -19,3 +19,6 @@ I'll keep working on improving my logic, so bear with me please.
 
 # Feedback
 This is my first time building and publishing a browser extension, please do provide feedback. 
+
+
+PS: In case you are wondering why code in the background.js and content.js seems like gibberish, that's done to protect the logic from Jiocinema's team. Altough I'm sure they are quite smart and it wouldn't be much difficut for them to figure it out.
